@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/crust2/leetcode/tree/master/0268-missing-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/crust2/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Binary Search
 |  |
 | ------- |
