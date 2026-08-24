@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/crust2/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/crust2/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/crust2/leetcode/tree/master/0268-missing-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/crust2/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
