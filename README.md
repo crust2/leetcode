@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/crust2/leetcode/tree/master/0035-search-insert-position) |
+| [0204-count-primes](https://github.com/crust2/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/crust2/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/crust2/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/crust2/leetcode/tree/master/0268-missing-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/crust2/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Binary Search
@@ -28,4 +30,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/crust2/leetcode/tree/master/0268-missing-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/crust2/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/crust2/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/crust2/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/crust2/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/crust2/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
