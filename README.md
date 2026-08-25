@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/crust2/leetcode/tree/master/0035-search-insert-position) |
 | [0204-count-primes](https://github.com/crust2/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/crust2/leetcode/tree/master/0268-missing-number) |
+| [1390-four-divisors](https://github.com/crust2/leetcode/tree/master/1390-four-divisors) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/crust2/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/crust2/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/crust2/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/crust2/leetcode/tree/master/0268-missing-number) |
+| [1390-four-divisors](https://github.com/crust2/leetcode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/crust2/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Binary Search
 |  |
@@ -49,8 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/crust2/leetcode/tree/master/0204-count-primes) |
+| [1390-four-divisors](https://github.com/crust2/leetcode/tree/master/1390-four-divisors) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/crust2/leetcode/tree/master/0204-count-primes) |
+## Prime Factorization
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/crust2/leetcode/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
