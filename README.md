@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/crust2/leetcode/tree/master/0035-search-insert-position) |
 | [0204-count-primes](https://github.com/crust2/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/crust2/leetcode/tree/master/0268-missing-number) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/crust2/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/crust2/leetcode/tree/master/0268-missing-number) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/crust2/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
