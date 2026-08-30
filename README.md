@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/crust2/leetcode/tree/master/0035-search-insert-position) |
 | [0204-count-primes](https://github.com/crust2/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/crust2/leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/crust2/leetcode/tree/master/0704-binary-search) |
 | [1390-four-divisors](https://github.com/crust2/leetcode/tree/master/1390-four-divisors) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/crust2/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/crust2/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/crust2/leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/crust2/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
