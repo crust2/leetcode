@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/crust2/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/crust2/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/crust2/leetcode/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/crust2/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/crust2/leetcode/tree/master/0704-binary-search) |
 | [1390-four-divisors](https://github.com/crust2/leetcode/tree/master/1390-four-divisors) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/crust2/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/crust2/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/crust2/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/crust2/leetcode/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/crust2/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/crust2/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
