@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/crust2/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/crust2/leetcode/tree/master/0704-binary-search) |
 | [1390-four-divisors](https://github.com/crust2/leetcode/tree/master/1390-four-divisors) |
+| [1480-running-sum-of-1d-array](https://github.com/crust2/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/crust2/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/crust2/leetcode/tree/master/0412-fizz-buzz) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/crust2/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
