@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/crust2/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/crust2/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/crust2/leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/crust2/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/crust2/leetcode/tree/master/0509-fibonacci-number) |
 | [1390-four-divisors](https://github.com/crust2/leetcode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/crust2/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/crust2/leetcode/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/crust2/leetcode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/crust2/leetcode/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/crust2/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
